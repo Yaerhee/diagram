@@ -1,0 +1,2 @@
+# diagram
+Diagram integration test
